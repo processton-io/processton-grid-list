@@ -1,6 +1,6 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/processton-io/processton grid-list.svg?style=flat-square)](https://packagist.org/packages/processton-io/processton grid-list)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/processton-io/processton-grid-list.svg?style=flat-square)](https://packagist.org/packages/processton-io/processton-grid-list)
 [![Total Downloads](https://img.shields.io/packagist/dt/processton-io/processton-grid-list.svg?style=flat-square)](https://packagist.org/packages/processton-io/processton-grid-list)
 ![GitHub Actions](https://github.com/processton-io/processton-grid-list/actions/workflows/main.yml/badge.svg)
 
